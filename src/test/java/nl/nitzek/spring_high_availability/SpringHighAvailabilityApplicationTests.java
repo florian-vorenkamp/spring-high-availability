@@ -1,4 +1,4 @@
-package nl.nitzek.springhighavailability;
+package nl.nitzek.spring_high_availability;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class SpringHighAvailabilityApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
